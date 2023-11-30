@@ -12,6 +12,7 @@ conf/**/*credentials*
 # ignore everything in the following folders
 Data/**
 logs/**
+notebook/all_week.csv
 
 # except their sub-folders
 !data/**/
