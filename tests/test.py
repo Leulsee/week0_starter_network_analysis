@@ -19,4 +19,4 @@ class SlackDataTest(unittest.TestCase):
         self.assertEqual(list(slack_data.columns), self.expected_columns)
 
 if name == 'main':
-    unittest.main() 
+    unittest.main()
